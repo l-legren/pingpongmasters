@@ -1,0 +1,7 @@
+{
+  "name": "PingPong-Masters",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
